@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|c:\\users\\sebastian\\desktop\\taller de carros - sebastian pati\u00F1o - sebastian lopez\\serviciostaller\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\clases\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:clases\\clsempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\controllers\\reparacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:controllers\\reparacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\clases\\clsreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:clases\\clsreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\clases\\clsvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:clases\\clsvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32F6AA-D45F-47F8-9A21-DBDF07D478A4}|ServiciosTaller.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsReparacion.cs",
+              "RelativeDocumentMoniker": "Clases\\clsReparacion.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsReparacion.cs",
+              "RelativeToolTip": "Clases\\clsReparacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:43:09.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReparacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\ReparacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReparacionesController.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\ReparacionesController.cs",
+              "RelativeToolTip": "Controllers\\ReparacionesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:41:06.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:26:12.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsEmpleado.cs",
+              "RelativeDocumentMoniker": "Clases\\clsEmpleado.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsEmpleado.cs",
+              "RelativeToolTip": "Clases\\clsEmpleado.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:51:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsVehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\clsVehiculo.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Clases\\clsVehiculo.cs",
+              "RelativeToolTip": "Clases\\clsVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:39:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Desktop\\Taller de Carros - Sebastian Pati\u00F1o - Sebastian Lopez\\ServiciosTaller\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:02:07.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
